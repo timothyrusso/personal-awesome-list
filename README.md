@@ -1,7 +1,7 @@
 # personal-wiki
 Personal Wiki Project
 
-Free Coding Bootcamps
+## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
 - [Full Stack open](https://fullstackopen.com/en/)
 - [App Academy open](https://www.appacademy.io/course/app-academy-open)
