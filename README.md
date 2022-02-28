@@ -11,3 +11,4 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 ## Tools
+- [Screen Size Map](https://screensizemap.com/)
