@@ -13,3 +13,6 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Tools
 - [Screen Size Map](https://screensizemap.com/)
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
+- [ProgrammableWeb](https://www.programmableweb.com/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+- [Online API Testing](https://hoppscotch.io/)
