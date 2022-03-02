@@ -16,3 +16,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [ProgrammableWeb](https://www.programmableweb.com/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Online API Testing](https://hoppscotch.io/)
+- [Background gradient](https://webgradients.com/)
+- [JSLinux](https://bellard.org/jslinux/)
