@@ -22,3 +22,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Liveweave](https://liveweave.com/)
 - [API for testing](https://reqres.in/)
 - [Replit](https://replit.com/)
+- [Wireframe](https://wireframe.cc/)
+- [AI trading assistant](https://hawksight.co/)
