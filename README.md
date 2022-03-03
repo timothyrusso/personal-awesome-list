@@ -20,3 +20,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [JSLinux](https://bellard.org/jslinux/)
 - [CodePen](https://codepen.io/your-work)
 - [Liveweave](https://liveweave.com/)
+- [API for testing](https://reqres.in/)
+- [Replit](https://replit.com/)
