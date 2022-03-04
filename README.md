@@ -31,3 +31,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Prettier code formatter](https://prettier.io/)
 - [gitignore](https://github.com/github/gitignore)
 - [Micro terminal based editor](https://micro-editor.github.io/)
+- [Pomodoro timer](https://pomofocus.io/)
+- [Material design terminal](https://materialshell.carloscuesta.me/)
