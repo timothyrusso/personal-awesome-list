@@ -10,7 +10,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-## Tools
+## Tools and Utilities
 - [Screen Size Map](https://screensizemap.com/)
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
 - [ProgrammableWeb](https://www.programmableweb.com/)
@@ -24,3 +24,10 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Replit](https://replit.com/)
 - [Wireframe](https://wireframe.cc/)
 - [AI trading assistant](https://hawksight.co/)
+- [JS Bin javascript console](https://jsbin.com/?js,console)
+- [Frontend build config generator](https://createapp.dev/webpack/no-library)
+- [General tools](https://tinywow.com/)
+- [Responsively](https://responsively.app/)
+- [Prettier code formatter](https://prettier.io/)
+- [gitignore](https://github.com/github/gitignore)
+- [Micro terminal based editor](https://micro-editor.github.io/)
