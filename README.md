@@ -35,3 +35,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Material design terminal](https://materialshell.carloscuesta.me/)
 - [Icon and style library](https://iconscout.com/)
 - [Color picker](https://htmlcolorcodes.com/color-picker/)
+- [Color names picker](https://htmlcolorcodes.com/color-names/)
+- [CodeSandbox](https://codesandbox.io/)
