@@ -39,4 +39,5 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Color names picker](https://htmlcolorcodes.com/color-names/)
 - [Color palette generator](https://color.adobe.com/it/create/color-wheel)
 
-## Useful articles
+## Job searching
+- [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
