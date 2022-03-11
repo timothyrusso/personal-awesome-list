@@ -43,4 +43,4 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 
 ## Computer Science
-- [Open Source Science Degree](https://github.com/ossu/computer-science)
+- [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
