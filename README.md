@@ -41,6 +41,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Job searching
 - [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
+- [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 
 ## Computer Science
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
