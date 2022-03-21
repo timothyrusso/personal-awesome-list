@@ -27,7 +27,6 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [JS Bin javascript console](https://jsbin.com/?js,console)
 - [Frontend build config generator](https://createapp.dev/webpack/no-library)
 - [General tools](https://tinywow.com/)
-- [Responsively](https://responsively.app/)
 - [Prettier code formatter](https://prettier.io/)
 - [gitignore](https://github.com/github/gitignore)
 - [Micro terminal based editor](https://micro-editor.github.io/)
