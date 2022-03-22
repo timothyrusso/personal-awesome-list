@@ -10,6 +10,10 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
+## Awesome lists
+- [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
+- [HTML best practices](https://github.com/hail2u/html-best-practices)
+
 ## Tools and Utilities
 - [Screen Size Map](https://screensizemap.com/)
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
