@@ -49,7 +49,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [TrueUp](https://www.trueup.io/)
 
-## Computer Science
+## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 
 ## Portfolio ideas
