@@ -54,3 +54,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Portfolio ideas
 - [Riley Johnson](https://rileydanejohnston.com/)
+
+## Useful libraries
+- [Formik](https://formik.org/)
+
+## Learning materials
+- [Patterns](https://www.patterns.dev/)
