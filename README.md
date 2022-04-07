@@ -50,12 +50,16 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [TrueUp](https://www.trueup.io/)
 - [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 - [talent.io](https://www.talent.io/p/en-fr/home)
+- [Hired](https://hired.com/)
 
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 
 ## Portfolio ideas
 - [Riley Johnson](https://rileydanejohnston.com/)
+
+## Projects ideas
+- [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
 
 ## Useful libraries
 - [Formik](https://formik.org/)
@@ -64,3 +68,4 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Patterns](https://www.patterns.dev/)
 - [Refactoring and design patterns](https://refactoring.guru/)
 - [realtoughcandy](https://realtoughcandy.com/)
+- [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
