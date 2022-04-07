@@ -49,6 +49,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [TrueUp](https://www.trueup.io/)
 - [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
+- [talent.io](https://www.talent.io/p/en-fr/home)
 
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
@@ -62,3 +63,4 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Learning materials
 - [Patterns](https://www.patterns.dev/)
 - [Refactoring and design patterns](https://refactoring.guru/)
+- [realtoughcandy](https://realtoughcandy.com/)
