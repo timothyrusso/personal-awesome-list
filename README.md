@@ -64,7 +64,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Useful libraries
 - [Formik](https://formik.org/)
 
-## Learning materials
+## Programming learning materials
 - [Patterns](https://www.patterns.dev/)
 - [Refactoring and design patterns](https://refactoring.guru/)
 - [realtoughcandy](https://realtoughcandy.com/)
