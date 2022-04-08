@@ -69,3 +69,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Refactoring and design patterns](https://refactoring.guru/)
 - [realtoughcandy](https://realtoughcandy.com/)
 - [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
+
+## JavaScript learning materials
+- [javascript.info](https://javascript.info/)
+- [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
