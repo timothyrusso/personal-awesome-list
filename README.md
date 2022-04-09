@@ -60,6 +60,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Projects ideas
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
+- [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
 
 ## Useful libraries
 - [Formik](https://formik.org/)
