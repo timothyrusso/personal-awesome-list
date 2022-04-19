@@ -80,3 +80,4 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Tools for study
 - [Remnote](https://www.remnote.com/)
+- [Edraw](https://www.edrawsoft.com/it/edraw-max/)
