@@ -77,3 +77,6 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
+
+## Tools for study
+- [Remnote](https://www.remnote.com/)
