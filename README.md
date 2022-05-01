@@ -61,6 +61,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Projects ideas
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
 - [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
+- [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
 
 ## Useful libraries
 - [Formik](https://formik.org/)
@@ -77,6 +78,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
+
+## Responsive design
+- [Responsive design basics](https://web.dev/responsive-web-design-basics/)
 
 ## Tools for study
 - [Remnote](https://www.remnote.com/)
