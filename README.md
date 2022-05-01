@@ -10,6 +10,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 
+## Guides
+- [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
+
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
 - [Full Stack open](https://fullstackopen.com/en/)
@@ -28,6 +31,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 - [talent.io](https://www.talent.io/p/en-fr/home)
 - [Hired](https://hired.com/)
+
+## Object oriented programming
+- [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ## Portfolio ideas
 - [Riley Johnson](https://rileydanejohnston.com/)
