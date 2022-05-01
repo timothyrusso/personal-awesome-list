@@ -3,6 +3,13 @@ This project is a collection of useful links for the study of software developme
 There are useful sources for the study, to stay up to date, for the creation of projects, tools and utilities to facilitate the work and much more.
 If you want to contribute or give me suggestions, let’s get in touch.
 
+## Awesome lists
+- [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
+- [HTML best practices](https://github.com/hail2u/html-best-practices)
+
+## Computer Science Degree
+- [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
+
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
 - [Full Stack open](https://fullstackopen.com/en/)
@@ -10,9 +17,37 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-## Awesome lists
-- [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
-- [HTML best practices](https://github.com/hail2u/html-best-practices)
+## JavaScript learning materials
+- [javascript.info](https://javascript.info/)
+- [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Job searching
+- [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
+- [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
+- [TrueUp](https://www.trueup.io/)
+- [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
+- [talent.io](https://www.talent.io/p/en-fr/home)
+- [Hired](https://hired.com/)
+
+## Portfolio ideas
+- [Riley Johnson](https://rileydanejohnston.com/)
+
+## Projects ideas
+- [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
+- [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
+- [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
+
+## Programming learning materials
+- [Patterns](https://www.patterns.dev/)
+- [Refactoring and design patterns](https://refactoring.guru/)
+- [realtoughcandy](https://realtoughcandy.com/)
+- [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
+
+## Responsive design
+- [Responsive design basics](https://web.dev/responsive-web-design-basics/)
+
+## Useful libraries
+- [Formik](https://formik.org/)
 
 ## Tools and Utilities
 - [Screen Size Map](https://screensizemap.com/)
@@ -44,43 +79,8 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [LaTeX document preparation system](https://www.latex-project.org/)
 - [Responsively](https://responsively.app/)
 
-## Job searching
-- [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
-- [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
-- [TrueUp](https://www.trueup.io/)
-- [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
-- [talent.io](https://www.talent.io/p/en-fr/home)
-- [Hired](https://hired.com/)
-
-## Computer Science Degree
-- [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
-
-## Portfolio ideas
-- [Riley Johnson](https://rileydanejohnston.com/)
-
-## Projects ideas
-- [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
-- [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
-- [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
-
-## Useful libraries
-- [Formik](https://formik.org/)
-
-## Programming learning materials
-- [Patterns](https://www.patterns.dev/)
-- [Refactoring and design patterns](https://refactoring.guru/)
-- [realtoughcandy](https://realtoughcandy.com/)
-- [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
-
-## JavaScript learning materials
-- [javascript.info](https://javascript.info/)
-- [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
-
-## Responsive design
-- [Responsive design basics](https://web.dev/responsive-web-design-basics/)
 
 ## Tools for study
 - [Remnote](https://www.remnote.com/)
