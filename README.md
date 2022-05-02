@@ -12,6 +12,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
+- [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
@@ -42,6 +43,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
 - [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
 - [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
+- [Chat Application](https://dev.to/koladev/websocket-with-react-nodejs-and-docker-building-a-chat-application-3447)
 
 ## Programming learning materials
 - [Patterns](https://www.patterns.dev/)
