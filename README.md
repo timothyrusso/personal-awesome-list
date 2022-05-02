@@ -86,6 +86,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Color palette generator](https://color.adobe.com/it/create/color-wheel)
 - [LaTeX document preparation system](https://www.latex-project.org/)
 - [Responsively](https://responsively.app/)
+- [Structured](https://structured.today/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
