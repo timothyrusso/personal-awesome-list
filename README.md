@@ -6,6 +6,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Awesome lists
 - [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
 - [HTML best practices](https://github.com/hail2u/html-best-practices)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
