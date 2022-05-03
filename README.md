@@ -88,6 +88,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [LaTeX document preparation system](https://www.latex-project.org/)
 - [Responsively](https://responsively.app/)
 - [Structured](https://structured.today/)
+- [LogRocket Logging tool](https://logrocket.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
