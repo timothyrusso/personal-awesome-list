@@ -8,6 +8,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [HTML best practices](https://github.com/hail2u/html-best-practices)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+## Coding practice
+- [Neetcode](https://neetcode.io/)
+
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 
