@@ -89,6 +89,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Responsively](https://responsively.app/)
 - [Structured](https://structured.today/)
 - [LogRocket Logging tool](https://logrocket.com/)
+- [Time tracking](https://toggl.com/track/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
