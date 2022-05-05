@@ -36,6 +36,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Remote jobs websites list](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 - [talent.io](https://www.talent.io/p/en-fr/home)
 - [Hired](https://hired.com/)
+- [Remote Ok](https://remoteok.com/)
 
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
