@@ -3,6 +3,9 @@ This project is a collection of useful links for the study of software developme
 There are useful sources for the study, to stay up to date, for the creation of projects, tools and utilities to facilitate the work and much more.
 If you want to contribute or give me suggestions, let’s get in touch.
 
+## API learning materials
+- [RapidAPI Learn](https://rapidapi.com/learn)
+
 ## Awesome lists
 - [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
 - [HTML best practices](https://github.com/hail2u/html-best-practices)
@@ -59,6 +62,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Responsive design
 - [Responsive design basics](https://web.dev/responsive-web-design-basics/)
+
+## Solidity learning materials
+- [CryptoZombies](https://cryptozombies.io/)
 
 ## Useful libraries
 - [Formik](https://formik.org/)
