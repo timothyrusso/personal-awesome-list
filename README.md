@@ -64,6 +64,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Refactoring and design patterns](https://refactoring.guru/)
 - [realtoughcandy](https://realtoughcandy.com/)
 - [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
+- [9 Best Software Architecture Patterns](https://dev.to/hussein_nm/9-best-software-architecture-patterns-44pc)
 
 ## Responsive design
 - [Responsive design basics](https://web.dev/responsive-web-design-basics/)
