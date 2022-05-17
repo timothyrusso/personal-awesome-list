@@ -111,6 +111,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Time tracking](https://toggl.com/track/)
 - [Devtooly](https://devtooly.com/)
 - [uiverse.io](https://uiverse.io/)
+- [GitHub Résumé](https://github.com/resume/resume.github.com)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
