@@ -76,6 +76,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Useful libraries
 - [Formik](https://formik.org/)
+- [Recoil](https://recoiljs.org/)
 
 ## Tools and Utilities
 - [Screen Size Map](https://screensizemap.com/)
