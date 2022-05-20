@@ -17,6 +17,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 
+## CSS learning materials
+- [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
@@ -48,6 +51,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Remote Ok](https://remoteok.com/)
 - [lavoro.dev](https://lavoro.dev/)
 - [Blazar Group](https://blazargroup.com/it/carriera/)
+
+## HTML learning materials
+- [HTML MDN]([https://lavoro.dev/](https://developer.mozilla.org/en-US/docs/Learn/HTML))
 
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
