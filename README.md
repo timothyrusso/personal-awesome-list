@@ -53,7 +53,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Blazar Group](https://blazargroup.com/it/carriera/)
 
 ## HTML learning materials
-- [HTML MDN]([https://lavoro.dev/](https://developer.mozilla.org/en-US/docs/Learn/HTML))
+- [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
