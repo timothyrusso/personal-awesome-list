@@ -23,6 +23,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
+- [How to create a load more button in React](https://dev.to/debosthefirst/how-to-create-a-load-more-button-in-react-1lab)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
@@ -83,6 +84,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Useful libraries
 - [Formik](https://formik.org/)
 - [Recoil](https://recoiljs.org/)
+
+## WEB3 learning materials
+- [Moralis Academy](https://academy.moralis.io/)
 
 ## Tools and Utilities
 - [Screen Size Map](https://screensizemap.com/)
