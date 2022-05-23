@@ -27,6 +27,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 - [How to create a load more button in React](https://dev.to/debosthefirst/how-to-create-a-load-more-button-in-react-1lab)
+- [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
@@ -70,6 +71,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
 - [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
 - [Chat Application](https://dev.to/koladev/websocket-with-react-nodejs-and-docker-building-a-chat-application-3447)
+- [Real-Time Order Book Application](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/amp/)
 
 ## Programming learning materials
 - [Patterns](https://www.patterns.dev/)
