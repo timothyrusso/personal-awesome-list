@@ -19,6 +19,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Cool articles
 - [Ways to Be More Productive](https://dev.to/code_jedi/20-easy-ways-to-be-more-productive-as-a-developer-5f99)
+- [this e i tipi ricorsivi](https://andreasimonecosta.dev/it/posts/sul-this-e-i-tipi-ricorsivi/)
 
 ## CSS learning materials
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
