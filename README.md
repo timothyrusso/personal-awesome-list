@@ -29,6 +29,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 - [How to create a load more button in React](https://dev.to/debosthefirst/how-to-create-a-load-more-button-in-react-1lab)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
+- [How to debug Node.js apps in Visual Studio Code](https://blog.logrocket.com/how-to-debug-node-js-apps-in-visual-studio-code/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
