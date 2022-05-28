@@ -132,6 +132,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Devtooly](https://devtooly.com/)
 - [uiverse.io](https://uiverse.io/)
 - [GitHub Résumé](https://github.com/resume/resume.github.com)
+- [EdrawMind](https://www.edrawmind.com/online/create)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
