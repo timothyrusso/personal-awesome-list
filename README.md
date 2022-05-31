@@ -63,6 +63,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## HTML learning materials
 - [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
+## Miscellaneous
+- [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
+
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
