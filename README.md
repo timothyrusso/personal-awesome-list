@@ -21,6 +21,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Ways to Be More Productive](https://dev.to/code_jedi/20-easy-ways-to-be-more-productive-as-a-developer-5f99)
 - [this e i tipi ricorsivi](https://andreasimonecosta.dev/it/posts/sul-this-e-i-tipi-ricorsivi/)
 
+## Cool Websites
+- [032c](https://032c.com/)
+
 ## CSS learning materials
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Specificity Calculator](https://specificity.keegan.st/)
