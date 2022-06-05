@@ -23,6 +23,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Cool Websites
 - [032c](https://032c.com/)
+- [GameCon cz](https://gamecon.cz/)
 
 ## CSS learning materials
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
