@@ -54,6 +54,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [javascript.info](https://javascript.info/)
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript 30](https://javascript30.com/)
+- [Codewars](https://www.codewars.com/)
 
 ## Job searching
 - [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
