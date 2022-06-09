@@ -11,6 +11,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [HTML best practices](https://github.com/hail2u/html-best-practices)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+## BEM learning materials
+- [BEM official](https://en.bem.info/)
+
 ## Coding practice
 - [Neetcode](https://neetcode.io/)
 
