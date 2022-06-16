@@ -32,6 +32,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## CSS learning materials
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Specificity Calculator](https://specificity.keegan.st/)
+- [Easing functions](https://easings.net/)
 
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
