@@ -62,6 +62,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [edabit](https://edabit.com/)
 
 ## Job searching
+- [Digital resume](https://techrez.io/)
 - [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 - [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [TrueUp](https://www.trueup.io/)
