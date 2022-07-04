@@ -91,6 +91,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
 - [Chat Application](https://dev.to/koladev/websocket-with-react-nodejs-and-docker-building-a-chat-application-3447)
 - [Real-Time Order Book Application](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/amp/)
+- [Project debriefs](https://www.codementor.io/projects)
 
 ## Programming learning materials
 - [Patterns](https://www.patterns.dev/)
