@@ -161,6 +161,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Dash API documentazione](https://kapeli.com/dash)
 - [Best course Finder](https://hackr.io/)
 - [Browser info](https://www.whatsmybrowser.org/)
+- [CSS safe fonts](https://www.cssfontstack.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
