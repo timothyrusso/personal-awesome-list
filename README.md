@@ -41,6 +41,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 - [How to debug Node.js apps in Visual Studio Code](https://blog.logrocket.com/how-to-debug-node-js-apps-in-visual-studio-code/)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [GitHub automatico](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
