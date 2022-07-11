@@ -164,6 +164,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Best course Finder](https://hackr.io/)
 - [Browser info](https://www.whatsmybrowser.org/)
 - [CSS safe fonts](https://www.cssfontstack.com/)
+- [Lighthouse Treemap](https://googlechrome.github.io/lighthouse/treemap/?gzip=1)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
