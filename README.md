@@ -169,6 +169,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [coolors](https://coolors.co/)
 - [HTML color codes](https://htmlcolorcodes.com/color-names/)
 - [keybr](https://www.keybr.com/)
+- [regexr](https://regexr.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
