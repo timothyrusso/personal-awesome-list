@@ -170,6 +170,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [HTML color codes](https://htmlcolorcodes.com/color-names/)
 - [keybr](https://www.keybr.com/)
 - [regexr](https://regexr.com/)
+- [icone scout](https://iconscout.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
