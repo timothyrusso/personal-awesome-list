@@ -117,6 +117,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Formik](https://formik.org/)
 - [Recoil](https://recoiljs.org/)
 - [Prismic](https://prismic.io/docs/technologies/react)
+- [medusajs](https://medusajs.com/)
 
 ## WEB3 learning materials
 - [Moralis Academy](https://academy.moralis.io/)
