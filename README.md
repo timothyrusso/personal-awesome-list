@@ -84,6 +84,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [refactoring.guru](https://refactoring.guru/)
 
 ## Portfolio ideas
 - [Riley Johnson](https://rileydanejohnston.com/)
