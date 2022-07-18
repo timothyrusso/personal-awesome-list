@@ -17,6 +17,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## Coding practice
 - [Neetcode](https://neetcode.io/)
 - [exercism](https://exercism.org/)
+- [Codepip](https://codepip.com/)
 
 ## Computer Science Degree
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
