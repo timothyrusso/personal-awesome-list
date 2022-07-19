@@ -36,6 +36,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [Easing functions](https://easings.net/)
 
+## General learning materials
+- [Web Skills](https://andreasbm.github.io/web-skills/?compact)
+
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
