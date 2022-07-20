@@ -5,6 +5,8 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## API learning materials
 - [RapidAPI Learn](https://rapidapi.com/learn)
+- [kayne.rest](https://kanye.rest/)
+- [Mockly](https://designer.mocky.io/)
 
 ## Awesome lists
 - [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
