@@ -179,6 +179,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [keybr](https://www.keybr.com/)
 - [regexr](https://regexr.com/)
 - [icone scout](https://iconscout.com/)
+- [heroicons](https://heroicons.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
