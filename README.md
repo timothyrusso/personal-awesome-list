@@ -180,6 +180,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [regexr](https://regexr.com/)
 - [icone scout](https://iconscout.com/)
 - [heroicons](https://heroicons.com/)
+- [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
