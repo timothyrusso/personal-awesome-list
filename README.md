@@ -183,6 +183,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [heroicons](https://heroicons.com/)
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-08-11)
+- [Miro blackboard](https://miro.com/it/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
