@@ -41,6 +41,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
+- [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
 
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
@@ -182,7 +183,6 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [icone scout](https://iconscout.com/)
 - [heroicons](https://heroicons.com/)
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
-- [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-08-11)
 - [Miro blackboard](https://miro.com/it/)
 
 ## Tutorials
