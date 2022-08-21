@@ -42,6 +42,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Guides
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
