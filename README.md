@@ -42,10 +42,13 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
+
+## Git learning materials
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
+- [Git command explorer](https://gitexplorer.com/)
 
 ## Guides
-- [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 - [How to create a load more button in React](https://dev.to/debosthefirst/how-to-create-a-load-more-button-in-react-1lab)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
