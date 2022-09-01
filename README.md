@@ -100,6 +100,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [refactoring.guru](https://refactoring.guru/)
 
+## Open Source
+- [Hot to find an Open Source project](https://dev.to/this-is-learning/how-to-find-an-open-source-project-to-contribute-to-3093)
+
 ## Portfolio ideas
 - [Riley Johnson](https://rileydanejohnston.com/)
 
