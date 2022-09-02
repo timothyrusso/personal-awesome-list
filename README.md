@@ -194,7 +194,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
 - [Miro blackboard](https://miro.com/it/)
 - [Jamboard](https://workspace.google.com/products/jamboard/)
-- [Daily Devo](https://daily.dev/)
+- [Daily Dev](https://daily.dev/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
