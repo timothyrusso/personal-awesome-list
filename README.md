@@ -42,6 +42,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
+- [What is Localhost?](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-localhost/amp/)
 
 ## Git learning materials
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
