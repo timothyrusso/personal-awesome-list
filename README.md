@@ -197,7 +197,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Miro blackboard](https://miro.com/it/)
 - [Jamboard](https://workspace.google.com/products/jamboard/)
 - [Daily Dev](https://daily.dev/)
-- [Lucido](https://lucid.co/)
+- [Lucidchart](https://lucid.co/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
