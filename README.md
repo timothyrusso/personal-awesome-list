@@ -132,6 +132,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 
 ## Solidity learning materials
 - [CryptoZombies](https://cryptozombies.io/)
+- [Solidity Design Patterns](https://blog.logrocket.com/developers-guide-solidity-design-patterns/)
 
 ## Useful libraries
 - [Formik](https://formik.org/)
