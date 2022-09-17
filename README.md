@@ -51,6 +51,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Git command explorer](https://gitexplorer.com/)
 - [Git concepts](https://dev.to/g_abud/advanced-git-reference-1o9j)
+- [Git pro](https://git-scm.com/book/en/v2)
 
 ## Guides
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
