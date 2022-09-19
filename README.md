@@ -203,6 +203,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Daily Dev](https://daily.dev/)
 - [Lucidchart](https://lucid.co/)
 - [diffchecker](https://www.diffchecker.com/)
+- [Obsidian](https://obsidian.md/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
