@@ -205,6 +205,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [diffchecker](https://www.diffchecker.com/)
 - [Obsidian](https://obsidian.md/)
 - [dropmail](https://dropmail.me/)
+- [fleet](https://www.jetbrains.com/fleet/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
