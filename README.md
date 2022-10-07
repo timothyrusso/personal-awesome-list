@@ -93,6 +93,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Remote Ok](https://remoteok.com/)
 - [lavoro.dev](https://lavoro.dev/)
 - [Blazar Group](https://blazargroup.com/it/carriera/)
+- [swissdevjobs](https://swissdevjobs.ch/)
 
 ## HTML learning materials
 - [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
