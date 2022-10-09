@@ -130,6 +130,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## React learning materials
 - [React patterns](https://reactpatterns.com/)
 - [React Clean Architecture](https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6)
+- [React Docs Beta](https://beta.reactjs.org/)
 
 ## Responsive design
 - [Responsive design basics](https://web.dev/responsive-web-design-basics/)
