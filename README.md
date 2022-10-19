@@ -120,6 +120,9 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Full stack projects](https://www.codementor.io/projects)
 - [Front end projects](https://www.frontendmentor.io/)
 
+## Programming games
+- [Screeps](https://screeps.com/)
+
 ## Programming learning materials
 - [Patterns](https://www.patterns.dev/)
 - [Refactoring and design patterns](https://refactoring.guru/)
