@@ -46,6 +46,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [MOOC](https://www.mooc.fi/en/)
 - [roadmap.sh](https://roadmap.sh/)
+- [devdocs.io](https://devdocs.io/)
 
 ## Git learning materials
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
