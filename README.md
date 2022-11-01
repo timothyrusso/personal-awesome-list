@@ -33,6 +33,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [032c](https://032c.com/)
 - [GameCon cz](https://gamecon.cz/)
 - [Sacha Greif](https://sachagreif.com/)
+- [httpster](https://httpster.net/)
 
 ## CSS learning materials
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
