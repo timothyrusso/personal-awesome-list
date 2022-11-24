@@ -226,7 +226,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [mockturtle](https://mockturtle.net/)
 - [slid](https://www.slid.cc/)
 - [robboat](https://robboat.com/)
-- [mswjs](https://mswjs.io/
+- [mswjs](https://mswjs.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
