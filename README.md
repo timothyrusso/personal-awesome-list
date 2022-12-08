@@ -227,6 +227,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [slid](https://www.slid.cc/)
 - [robboat](https://robboat.com/)
 - [mswjs](https://mswjs.io/)
+- [cheatsh](https://github.com/chubin/cheat.sh)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
