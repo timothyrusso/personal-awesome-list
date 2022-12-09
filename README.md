@@ -40,6 +40,10 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [Easing functions](https://easings.net/)
 
+## Deploy applications
+- [Render](https://render.com/)
+- [Netlify](https://www.netlify.com/)
+
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
