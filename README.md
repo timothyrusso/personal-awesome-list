@@ -48,6 +48,14 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 
+## Free Coding Bootcamps
+- [The Odin Project](https://www.theodinproject.com/)
+- [Full Stack open](https://fullstackopen.com/en/)
+- [App Academy open](https://www.appacademy.io/course/app-academy-open)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Open Bootcamp](https://open-bootcamp.com/)
+
 ## General learning materials
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
@@ -73,13 +81,8 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [GitHub automatico](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [learn to code for free](https://learntocodewith.me/posts/code-for-free/)
 
-## Free Coding Bootcamps
-- [The Odin Project](https://www.theodinproject.com/)
-- [Full Stack open](https://fullstackopen.com/en/)
-- [App Academy open](https://www.appacademy.io/course/app-academy-open)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-- [Open Bootcamp](https://open-bootcamp.com/)
+## HTML learning materials
+- [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ## Interview preparation
 - [fullstack.cafe](https://www.fullstack.cafe/)
@@ -105,9 +108,6 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [lavoro.dev](https://lavoro.dev/)
 - [Blazar Group](https://blazargroup.com/it/carriera/)
 - [swissdevjobs](https://swissdevjobs.ch/)
-
-## HTML learning materials
-- [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ## Miscellaneous
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
