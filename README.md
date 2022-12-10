@@ -40,6 +40,10 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [Easing functions](https://easings.net/)
 
+## CSS cool libraries
+- [NES.css](https://nostalgic-css.github.io/NES.css/)
+- [98.css](https://jdan.github.io/98.css/)
+
 ## Deploy applications
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
