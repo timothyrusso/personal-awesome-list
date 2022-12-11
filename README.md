@@ -43,6 +43,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 ## CSS cool libraries
 - [NES.css](https://nostalgic-css.github.io/NES.css/)
 - [98.css](https://jdan.github.io/98.css/)
+- [terminal.css](https://terminalcss.xyz/)
 
 ## Deploy applications
 - [Render](https://render.com/)
