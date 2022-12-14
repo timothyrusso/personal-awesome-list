@@ -49,6 +49,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 - [railway.app](https://railway.app/)
+- [adaptable.io](https://adaptable.io/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
