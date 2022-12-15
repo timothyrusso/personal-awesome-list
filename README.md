@@ -50,6 +50,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Netlify](https://www.netlify.com/)
 - [railway.app](https://railway.app/)
 - [adaptable.io](https://adaptable.io/)
+- [fly.io](https://fly.io/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
