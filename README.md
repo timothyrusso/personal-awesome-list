@@ -68,6 +68,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [MOOC](https://www.mooc.fi/en/)
 - [roadmap.sh](https://roadmap.sh/)
 - [devdocs.io](https://devdocs.io/)
+- [thevalleyofcode](https://thevalleyofcode.com/)
 
 ## Git learning materials
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
