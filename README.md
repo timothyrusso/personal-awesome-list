@@ -51,6 +51,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [railway.app](https://railway.app/)
 - [adaptable.io](https://adaptable.io/)
 - [fly.io](https://fly.io/)
+- [supabase](https://supabase.com/)
 
 ## Free Coding Bootcamps
 - [The Odin Project](https://www.theodinproject.com/)
