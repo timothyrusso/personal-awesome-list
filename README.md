@@ -250,6 +250,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [codeimage](https://codeimage.dev/)
 - [hygraph](https://hygraph.com/)
 - [insomnia.rest](https://insomnia.rest/)
+- [easyretro](https://easyretro.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
