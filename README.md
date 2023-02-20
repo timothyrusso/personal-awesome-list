@@ -252,6 +252,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [insomnia.rest](https://insomnia.rest/)
 - [easyretro](https://easyretro.io/)
 - [json-generator](https://next.json-generator.com/)
+- [kodezi](https://kodezi.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
