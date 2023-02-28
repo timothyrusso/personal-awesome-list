@@ -254,6 +254,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [json-generator](https://next.json-generator.com/)
 - [kodezi](https://kodezi.com/)
 - [turndown](https://mixmark-io.github.io/turndown/)
+- [echarts](https://echarts.apache.org/en/index.html)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
