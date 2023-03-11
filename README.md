@@ -169,6 +169,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [Prismic](https://prismic.io/docs/technologies/react)
 - [medusajs](https://medusajs.com/)
 - [Strapi](https://strapi.io/)
+- [horizon-ui](https://horizon-ui.com/)
 
 ## WEB3 learning materials
 - [Moralis Academy](https://academy.moralis.io/)
