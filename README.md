@@ -114,6 +114,7 @@ If you want to contribute or give me suggestions, let’s get in touch.
 - [lavoro.dev](https://lavoro.dev/)
 - [Blazar Group](https://blazargroup.com/it/carriera/)
 - [swissdevjobs](https://swissdevjobs.ch/)
+- [wellfound](https://wellfound.com/jobs)
 
 ## Miscellaneous
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
