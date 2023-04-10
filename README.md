@@ -1,3 +1,8 @@
+# Awesome List Project
+This project is a collection of useful links for the study of software development.
+There are useful sources for the study, to stay up to date, for the creation of projects, tools and utilities to facilitate the work and much more.
+If you want to contribute or give me suggestions, let’s get in touch.
+
 # Table of Contents
 1. [API learning materials](#api-learning-materials)
 2. [Awesome lists](#awesome-lists)
@@ -31,11 +36,6 @@
 30. [Useful libraries](#useful-libraries)
 31. [WEB3 learning materials](#web3-learning-materials)
 32. [Tools and Utilities](#tools-and-utilities)
-
-# Awesome List Project
-This project is a collection of useful links for the study of software development.
-There are useful sources for the study, to stay up to date, for the creation of projects, tools and utilities to facilitate the work and much more.
-If you want to contribute or give me suggestions, let’s get in touch.
 
 ## API learning materials
 - [RapidAPI Learn](https://rapidapi.com/learn)
