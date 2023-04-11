@@ -160,6 +160,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 
 ## Miscellaneous
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
+- [hackertyper](https://hackertyper.net/)
 
 ## Object oriented programming
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
