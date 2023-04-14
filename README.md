@@ -44,6 +44,8 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 30. [Useful libraries](#useful-libraries)
 31. [WEB3 learning materials](#web3-learning-materials)
 32. [Tools and Utilities](#tools-and-utilities)
+33. [Tutorials](#tutorials)
+34. [Tools for study](#tools-for-study)
 
 ## API learning materials
 - [RapidAPI Learn](https://rapidapi.com/learn)
