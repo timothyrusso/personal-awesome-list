@@ -309,6 +309,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [rectangleapp](https://rectangleapp.com/)
 - [getkap](https://getkap.co/)
 - [passkeys](https://www.passkeys.io/)
+- [curiosity](https://curiosity.ai/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
