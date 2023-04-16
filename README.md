@@ -187,6 +187,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Full stack projects](https://www.codementor.io/projects)
 - [Front end projects](https://www.frontendmentor.io/)
 - [dribble](https://dribbble.com/)
+- [awwwards](https://www.awwwards.com/)
 
 ## Programming games
 - [Screeps](https://screeps.com/)
