@@ -311,6 +311,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [getkap](https://getkap.co/)
 - [passkeys](https://www.passkeys.io/)
 - [curiosity](https://curiosity.ai/)
+- [knexjs](https://knexjs.org/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
