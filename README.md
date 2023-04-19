@@ -312,6 +312,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [passkeys](https://www.passkeys.io/)
 - [curiosity](https://curiosity.ai/)
 - [knexjs](https://knexjs.org/)
+- [openlayers](https://openlayers.org/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
