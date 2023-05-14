@@ -313,6 +313,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [curiosity](https://curiosity.ai/)
 - [knexjs](https://knexjs.org/)
 - [openlayers](https://openlayers.org/)
+- [nango](https://www.nango.dev/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
