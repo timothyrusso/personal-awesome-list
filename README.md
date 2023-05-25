@@ -49,7 +49,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 35. [Tools for study](#tools-for-study)
 
 ## AI
-
+- [compose.ai](https://www.compose.ai/)
 
 ## API learning materials
 - [RapidAPI Learn](https://rapidapi.com/learn)
