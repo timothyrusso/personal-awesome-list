@@ -51,6 +51,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 ## AI
 - [compose.ai](https://www.compose.ai/)
 - [muse.ai](https://muse.ai/)
+- [bugsura](https://bugasura.io/)
 
 ## API learning materials
 - [RapidAPI Learn](https://rapidapi.com/learn)
