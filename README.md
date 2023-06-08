@@ -95,6 +95,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [NES.css](https://nostalgic-css.github.io/NES.css/)
 - [98.css](https://jdan.github.io/98.css/)
 - [terminal.css](https://terminalcss.xyz/)
+- [tachyons](https://tachyons.io/)
 
 ## Deploy applications
 - [Render](https://render.com/)
