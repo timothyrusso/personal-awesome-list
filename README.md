@@ -325,6 +325,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [rive](https://rive.app/)
 - [create.t3](https://create.t3.gg/)
 - [mojs](https://mojs.github.io/)
+- [jsonapi](https://jsonplaceholder.cypress.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
