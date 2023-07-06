@@ -326,6 +326,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [create.t3](https://create.t3.gg/)
 - [mojs](https://mojs.github.io/)
 - [jsonapi](https://jsonplaceholder.cypress.io/)
+- [omatsuri.app](https://omatsuri.app/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
