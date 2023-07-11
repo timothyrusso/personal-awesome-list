@@ -328,6 +328,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [jsonapi](https://jsonplaceholder.cypress.io/)
 - [omatsuri.app](https://omatsuri.app/)
 - [mentimeter](https://www.mentimeter.com/)
+- [react-graph-gallery](https://www.react-graph-gallery.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
