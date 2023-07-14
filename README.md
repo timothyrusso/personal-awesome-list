@@ -185,6 +185,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 ## Preparation for job
 - [the-collab-lab](https://the-collab-lab.codes/)
 - [chingu](https://www.chingu.io/)
+- [developersofchange](https://www.developersofchange.org/)
 
 ## Projects ideas
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
