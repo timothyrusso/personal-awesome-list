@@ -1,4 +1,4 @@
-# Personal Awesome List Project
+mi# Personal Awesome List Project
 Welcome to the Personal Awesome List Project, a meticulously curated compilation of invaluable links designed to assist you in mastering software development. This repository offers a wealth of resources to support your learning journey, stay abreast of industry updates, inspire project creation, and provide an array of tools and utilities to streamline your workflow.
 
 Included in our diverse selection are:
@@ -331,6 +331,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [mentimeter](https://www.mentimeter.com/)
 - [react-graph-gallery](https://www.react-graph-gallery.com/)
 - [tremor](https://www.tremor.so/)
+- [nanoly](https://nanoly.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
