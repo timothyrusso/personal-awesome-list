@@ -331,6 +331,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [mentimeter](https://www.mentimeter.com/)
 - [react-graph-gallery](https://www.react-graph-gallery.com/)
 - [tremor](https://www.tremor.so/)
+- [autoprefixer](https://autoprefixer.github.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
