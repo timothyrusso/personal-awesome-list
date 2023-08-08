@@ -333,6 +333,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [tremor](https://www.tremor.so/)
 - [autoprefixer](https://autoprefixer.github.io/)
 - [d3js](https://d3js.org/)
+- [idx](https://idx.dev/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
