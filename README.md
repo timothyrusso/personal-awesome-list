@@ -96,6 +96,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [98.css](https://jdan.github.io/98.css/)
 - [terminal.css](https://terminalcss.xyz/)
 - [tachyons](https://tachyons.io/)
+- [react95](https://react95.io/)
 
 ## Deploy applications
 - [Render](https://render.com/)
