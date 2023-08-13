@@ -338,6 +338,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [designer.microsoft](https://designer.microsoft.com/)
 - [nextui](https://nextui.org)
 - [tailwindui](https://tailwindui.com/)
+- [ikonate](https://ikonate.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
