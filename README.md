@@ -339,6 +339,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [nextui](https://nextui.org)
 - [tailwindui](https://tailwindui.com/)
 - [ikonate](https://ikonate.com/)
+- [unused-css](https://unused-css.com/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
