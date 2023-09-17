@@ -340,6 +340,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [tailwindui](https://tailwindui.com/)
 - [ikonate](https://ikonate.com/)
 - [unused-css](https://unused-css.com/)
+- [spline](https://spline.design/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
