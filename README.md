@@ -342,6 +342,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [unused-css](https://unused-css.com/)
 - [spline](https://spline.design/)
 - [getpixelsnap](https://getpixelsnap.com/)
+- [mswjs](https://mswjs.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
