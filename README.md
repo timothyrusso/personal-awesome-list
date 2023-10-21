@@ -344,6 +344,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [getpixelsnap](https://getpixelsnap.com/)
 - [mswjs](https://mswjs.io/)
 - [drawkit](https://www.drawkit.com/)
+- [undraw](https://undraw.co/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
