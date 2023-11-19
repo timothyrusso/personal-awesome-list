@@ -346,6 +346,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [drawkit](https://www.drawkit.com/)
 - [undraw](https://undraw.co/)
 - [shapedivider](https://www.shapedivider.app/)
+- [appetize](https://appetize.io/)
 
 ## Tutorials
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
