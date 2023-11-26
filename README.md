@@ -12,86 +12,98 @@ Included in our diverse selection are:
 We encourage and appreciate community involvement! If you'd like to contribute to this ever-growing repository, suggest new resources, or simply provide feedback, please don't hesitate to get in touch with me. Together, we can make this resource hub an indispensable asset for software developers around the world!
 
 # Table of Contents
-1. [AI](#ai)
-2. [API learning materials](#api-learning-materials)
-3. [Awesome lists](#awesome-lists)
-4. [BEM learning materials](#bem-learning-materials)
-5. [Coding practice](#coding-practice)
-6. [Computer Science Degree](#computer-science-degree)
-7. [Cool articles](#cool-articles)
-8. [Cool Websites](#cool-websites)
-9. [CSS learning materials](#css-learning-materials)
-10. [CSS cool libraries](#css-cool-libraries)
-11. [Deploy applications](#deploy-applications)
-12. [Free Coding Bootcamps](#free-coding-bootcamps)
-13. [General learning materials](#general-learning-materials)
-14. [Git learning materials](#git-learning-materials)
-15. [Guides](#guides)
-16. [HTML learning materials](#html-learning-materials)
-17. [Interview preparation](#interview-preparation)
-18. [JavaScript learning materials](#javascript-learning-materials)
-19. [Job searching](#job-searching)
-20. [Miscellaneous](#miscellaneous)
-21. [Object oriented programming](#object-oriented-programming)
-22. [Open Source](#open-source)
-23. [Portfolio ideas](#portfolio-ideas)
-24. [Preparation for job](#preparation-for-job)
-25. [Projects ideas](#projects-ideas)
-26. [Programming games](#programming-games)
-27. [Programming learning materials](#programming-learning-materials)
-28. [React learning materials](#react-learning-materials)
-29. [Responsive design](#responsive-design)
-30. [Solidity learning materials](#solidity-learning-materials)
-31. [Useful libraries](#useful-libraries)
-32. [WEB3 learning materials](#web3-learning-materials)
-33. [Tools and Utilities](#tools-and-utilities)
-34. [Tutorials](#tutorials)
-35. [Tools for study](#tools-for-study)
+
+- [Table of Contents](#table-of-contents)
+  - [AI](#ai)
+  - [API learning materials](#api-learning-materials)
+  - [Awesome lists](#awesome-lists)
+  - [BEM learning materials](#bem-learning-materials)
+  - [Coding practice](#coding-practice)
+  - [Computer Science Degree](#computer-science-degree)
+  - [Cool articles](#cool-articles)
+  - [Cool Websites](#cool-websites)
+  - [CSS learning materials](#css-learning-materials)
+  - [CSS cool libraries](#css-cool-libraries)
+  - [Deploy applications](#deploy-applications)
+  - [Free Coding Bootcamps](#free-coding-bootcamps)
+  - [General learning materials](#general-learning-materials)
+  - [Git learning materials](#git-learning-materials)
+  - [Guides](#guides)
+  - [HTML learning materials](#html-learning-materials)
+  - [Interview preparation](#interview-preparation)
+  - [JavaScript learning materials](#javascript-learning-materials)
+  - [Job searching](#job-searching)
+  - [Miscellaneous](#miscellaneous)
+  - [Object oriented programming](#object-oriented-programming)
+  - [Open Source](#open-source)
+  - [Portfolio ideas](#portfolio-ideas)
+  - [Preparation for job](#preparation-for-job)
+  - [Projects ideas](#projects-ideas)
+  - [Programming games](#programming-games)
+  - [Programming learning materials](#programming-learning-materials)
+  - [React learning materials](#react-learning-materials)
+  - [Responsive design](#responsive-design)
+  - [Solidity learning materials](#solidity-learning-materials)
+  - [Useful libraries](#useful-libraries)
+  - [WEB3 learning materials](#web3-learning-materials)
+  - [Tools and Utilities](#tools-and-utilities)
+  - [Tutorials](#tutorials)
+  - [Tools for study](#tools-for-study)
 
 ## AI
+
 - [compose.ai](https://www.compose.ai/)
 - [muse.ai](https://muse.ai/)
 - [bugsura](https://bugasura.io/)
 - [magicstudio](https://magicstudio.com/)
 
 ## API learning materials
+
 - [RapidAPI Learn](https://rapidapi.com/learn)
 - [kayne.rest](https://kanye.rest/)
 - [Mockly](https://designer.mocky.io/)
 
 ## Awesome lists
+
 - [Ebook Fondation](https://github.com/EbookFoundation/free-programming-books)
 - [HTML best practices](https://github.com/hail2u/html-best-practices)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
 ## BEM learning materials
+
 - [BEM official](https://en.bem.info/)
 
 ## Coding practice
+
 - [Neetcode](https://neetcode.io/)
 - [exercism](https://exercism.org/)
 - [Codepip](https://codepip.com/)
 
 ## Computer Science Degree
+
 - [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 - [ISAAC Computer Science](https://isaaccomputerscience.org/?examBoard=all&stage=all)
 
 ## Cool articles
+
 - [Ways to Be More Productive](https://dev.to/code_jedi/20-easy-ways-to-be-more-productive-as-a-developer-5f99)
 - [this e i tipi ricorsivi](https://andreasimonecosta.dev/it/posts/sul-this-e-i-tipi-ricorsivi/)
 
 ## Cool Websites
+
 - [032c](https://032c.com/)
 - [GameCon cz](https://gamecon.cz/)
 - [Sacha Greif](https://sachagreif.com/)
 - [httpster](https://httpster.net/)
 
 ## CSS learning materials
+
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [Easing functions](https://easings.net/)
 
 ## CSS cool libraries
+
 - [NES.css](https://nostalgic-css.github.io/NES.css/)
 - [98.css](https://jdan.github.io/98.css/)
 - [terminal.css](https://terminalcss.xyz/)
@@ -99,6 +111,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [react95](https://react95.io/)
 
 ## Deploy applications
+
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 - [railway.app](https://railway.app/)
@@ -107,6 +120,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [supabase](https://supabase.com/)
 
 ## Free Coding Bootcamps
+
 - [The Odin Project](https://www.theodinproject.com/)
 - [Full Stack open](https://fullstackopen.com/en/)
 - [App Academy open](https://www.appacademy.io/course/app-academy-open)
@@ -115,6 +129,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Open Bootcamp](https://open-bootcamp.com/)
 
 ## General learning materials
+
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Zero to Mastery free resources for developers](https://zerotomastery.io/resources/)
 - [What is Localhost?](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-localhost/amp/)
@@ -125,13 +140,16 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [thevalleyofcode](https://thevalleyofcode.com/)
 
 ## Git learning materials
+
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 - [Git command explorer](https://gitexplorer.com/)
 - [Git concepts](https://dev.to/g_abud/advanced-git-reference-1o9j)
 - [Git pro](https://git-scm.com/book/en/v2)
+-
 
 ## Guides
+
 - [Keys to a well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 - [How to create a load more button in React](https://dev.to/debosthefirst/how-to-create-a-load-more-button-in-react-1lab)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
@@ -141,14 +159,17 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [learn to code for free](https://learntocodewith.me/posts/code-for-free/)
 
 ## HTML learning materials
+
 - [HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ## Interview preparation
+
 - [fullstack.cafe](https://www.fullstack.cafe/)
 - [Front End developer interview questions](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)
 - [Front End developer interview questions GitHub list](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## JavaScript learning materials
+
 - [javascript.info](https://javascript.info/)
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript 30](https://javascript30.com/)
@@ -156,6 +177,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [edabit](https://edabit.com/)
 
 ## Job searching
+
 - [Digital resume](https://techrez.io/)
 - [Remote jobs](https://www.freecodecamp.org/news/how-to-find-remote-jobs/)
 - [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
@@ -170,25 +192,31 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [wellfound](https://wellfound.com/jobs)
 
 ## Miscellaneous
+
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [hackertyper](https://hackertyper.net/)
 
 ## Object oriented programming
+
 - [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [refactoring.guru](https://refactoring.guru/)
 
 ## Open Source
+
 - [Hot to find an Open Source project](https://dev.to/this-is-learning/how-to-find-an-open-source-project-to-contribute-to-3093)
 
 ## Portfolio ideas
+
 - [Riley Johnson](https://rileydanejohnston.com/)
 
 ## Preparation for job
+
 - [the-collab-lab](https://the-collab-lab.codes/)
 - [chingu](https://www.chingu.io/)
 - [developersofchange](https://www.developersofchange.org/)
 
 ## Projects ideas
+
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
 - [Full Stack Productivity Timer App](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/amp/)
 - [100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)
@@ -200,28 +228,35 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [awwwards](https://www.awwwards.com/)
 
 ## Programming games
+
 - [Screeps](https://screeps.com/)
 
 ## Programming learning materials
+
 - [Patterns](https://www.patterns.dev/)
 - [Refactoring and design patterns](https://refactoring.guru/)
 - [realtoughcandy](https://realtoughcandy.com/)
 - [Websites to Learn to Code for Free](https://www.hostinger.com/tutorials/learn-coding-online-for-free/#1_BitDegree)
 - [9 Best Software Architecture Patterns](https://dev.to/hussein_nm/9-best-software-architecture-patterns-44pc)
+- [semver](https://semver.org/)
 
 ## React learning materials
+
 - [React patterns](https://reactpatterns.com/)
 - [React Clean Architecture](https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6)
 - [React Docs Beta](https://beta.reactjs.org/)
 
 ## Responsive design
+
 - [Responsive design basics](https://web.dev/responsive-web-design-basics/)
 
 ## Solidity learning materials
+
 - [CryptoZombies](https://cryptozombies.io/)
 - [Solidity Design Patterns](https://blog.logrocket.com/developers-guide-solidity-design-patterns/)
 
 ## Useful libraries
+
 - [Formik](https://formik.org/)
 - [Recoil](https://recoiljs.org/)
 - [Prismic](https://prismic.io/docs/technologies/react)
@@ -231,9 +266,11 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [astro](https://astro.build/)
 
 ## WEB3 learning materials
+
 - [Moralis Academy](https://academy.moralis.io/)
 
 ## Tools and Utilities
+
 - [Screen Size Map](https://screensizemap.com/)
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
 - [ProgrammableWeb](https://www.programmableweb.com/)
@@ -348,11 +385,14 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [shapedivider](https://www.shapedivider.app/)
 - [appetize](https://appetize.io/)
 - [relume](https://www.relume.io/)
+-
 
 ## Tutorials
+
 - [Introduction to Docker](https://dev.to/signoz/docker-101-introduction-to-docker-1kbm)
 - [How to Use MERN Stack](https://www.mongodb.com/languages/mern-stack-tutorial)
 
 ## Tools for study
+
 - [Remnote](https://www.remnote.com/)
 - [Edraw](https://www.edrawsoft.com/it/edraw-max/)
