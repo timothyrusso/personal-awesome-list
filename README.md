@@ -176,6 +176,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [JavaScript 30](https://javascript30.com/)
 - [Codewars](https://www.codewars.com/)
 - [edabit](https://edabit.com/)
+- [thevalleyofcode](https://thevalleyofcode.com/)
 
 ## Job searching
 
