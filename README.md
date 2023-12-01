@@ -392,6 +392,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [bit](https://bit.dev/)
 - [tailscan](https://tailscan.com/)
 - [yellowlab](https://yellowlab.tools/)
+- [hackreels](https://www.hackreels.com/)
 
 ## Tutorials
 
