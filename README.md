@@ -395,6 +395,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [hackreels](https://www.hackreels.com/)
 - [ree](https://ree.js.org/)
 - [orbstack](https://orbstack.dev/)
+- [useflytrap](https://www.useflytrap.com/)
 
 ## Tutorials
 
