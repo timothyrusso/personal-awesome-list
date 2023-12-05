@@ -396,6 +396,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [ree](https://ree.js.org/)
 - [orbstack](https://orbstack.dev/)
 - [useflytrap](https://www.useflytrap.com/)
+- [theresanaiforthat](https://theresanaiforthat.com/)
 
 ## Tutorials
 
