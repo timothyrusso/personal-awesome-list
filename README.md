@@ -397,6 +397,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [orbstack](https://orbstack.dev/)
 - [useflytrap](https://www.useflytrap.com/)
 - [theresanaiforthat](https://theresanaiforthat.com/)
+- [copyui](https://copyui.com/)
 
 ## Tutorials
 
