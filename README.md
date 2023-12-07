@@ -398,6 +398,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [useflytrap](https://www.useflytrap.com/)
 - [theresanaiforthat](https://theresanaiforthat.com/)
 - [copyui](https://copyui.com/)
+- [snyk](https://snyk.io/)
 
 ## Tutorials
 
