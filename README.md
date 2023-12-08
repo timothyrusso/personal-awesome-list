@@ -56,6 +56,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [muse.ai](https://muse.ai/)
 - [bugsura](https://bugasura.io/)
 - [magicstudio](https://magicstudio.com/)
+- [theresanaiforthat](https://theresanaiforthat.com/)
 
 ## API learning materials
 
@@ -396,7 +397,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [ree](https://ree.js.org/)
 - [orbstack](https://orbstack.dev/)
 - [useflytrap](https://www.useflytrap.com/)
-- [theresanaiforthat](https://theresanaiforthat.com/)
 - [copyui](https://copyui.com/)
 - [snyk](https://snyk.io/)
 
