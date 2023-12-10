@@ -57,6 +57,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [bugsura](https://bugasura.io/)
 - [magicstudio](https://magicstudio.com/)
 - [theresanaiforthat](https://theresanaiforthat.com/)
+- [smodin](https://smodin.io/)
 
 ## API learning materials
 
