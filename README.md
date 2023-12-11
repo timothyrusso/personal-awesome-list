@@ -58,6 +58,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [magicstudio](https://magicstudio.com/)
 - [theresanaiforthat](https://theresanaiforthat.com/)
 - [smodin](https://smodin.io/)
+- [firejet](https://www.firejet.io/)
 
 ## API learning materials
 
