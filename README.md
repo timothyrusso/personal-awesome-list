@@ -402,6 +402,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [copyui](https://copyui.com/)
 - [snyk](https://snyk.io/)
 - [stylex](https://stylexjs.com/)
+- [watermelontools](https://www.watermelontools.com/)
 
 ## Tutorials
 
