@@ -403,6 +403,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [snyk](https://snyk.io/)
 - [stylex](https://stylexjs.com/)
 - [watermelontools](https://www.watermelontools.com/)
+- [authkit](https://www.authkit.com/)
 
 ## Tutorials
 
