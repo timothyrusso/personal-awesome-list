@@ -59,6 +59,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [theresanaiforthat](https://theresanaiforthat.com/)
 - [smodin](https://smodin.io/)
 - [firejet](https://www.firejet.io/)
+- [harpa.ai](https://harpa.ai/)
 
 ## API learning materials
 
