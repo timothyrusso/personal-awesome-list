@@ -406,6 +406,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [watermelontools](https://www.watermelontools.com/)
 - [authkit](https://www.authkit.com/)
 - [react.keepdesign](https://react.keepdesign.io/)
+- [html-to-jsx](https://transform.tools/html-to-jsx)
 
 ## Tutorials
 
