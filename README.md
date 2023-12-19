@@ -408,6 +408,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [react.keepdesign](https://react.keepdesign.io/)
 - [html-to-jsx](https://transform.tools/html-to-jsx)
 - [userway](https://userway.org/widget/)
+- [sql-formatter](https://sql-formatter-org.github.io/sql-formatter/)
 
 ## Tutorials
 
