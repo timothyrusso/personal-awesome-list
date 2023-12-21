@@ -410,6 +410,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [userway](https://userway.org/widget/)
 - [sql-formatter](https://sql-formatter-org.github.io/sql-formatter/)
 - [gitbrain](https://gitbrain.dev/)
+- [tsdocs](https://tsdocs.dev/)
 
 ## Tutorials
 
