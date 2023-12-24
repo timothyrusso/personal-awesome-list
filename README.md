@@ -60,6 +60,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [smodin](https://smodin.io/)
 - [firejet](https://www.firejet.io/)
 - [harpa.ai](https://harpa.ai/)
+- [codium](https://www.codium.ai/)
 
 ## API learning materials
 
