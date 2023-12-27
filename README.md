@@ -412,6 +412,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [sql-formatter](https://sql-formatter-org.github.io/sql-formatter/)
 - [gitbrain](https://gitbrain.dev/)
 - [tsdocs](https://tsdocs.dev/)
+- [singleapi](https://singleapi.co/)
 
 ## Tutorials
 
