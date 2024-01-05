@@ -414,6 +414,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [tsdocs](https://tsdocs.dev/)
 - [singleapi](https://singleapi.co/)
 - [uiverse](https://uiverse.io/)
+- [builder](https://www.builder.io/)
 
 ## Tutorials
 
