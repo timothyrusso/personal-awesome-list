@@ -410,7 +410,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [gitbrain](https://gitbrain.dev/)
 - [tsdocs](https://tsdocs.dev/)
 - [singleapi](https://singleapi.co/)
-- [uiverse](https://uiverse.io/)
 - [builder](https://www.builder.io/)
 - [preline](https://preline.co/index.html)
 
