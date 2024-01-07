@@ -304,7 +304,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Color palette generator](https://color.adobe.com/it/create/color-wheel)
 - [LaTeX document preparation system](https://www.latex-project.org/)
 - [Responsively](https://responsively.app/)
-- [Structured](https://structured.today/)
 - [LogRocket Logging tool](https://logrocket.com/)
 - [Time tracking](https://toggl.com/track/)
 - [Devtooly](https://devtooly.com/)
