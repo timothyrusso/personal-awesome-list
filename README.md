@@ -333,7 +333,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Obsidian](https://obsidian.md/)
 - [dropmail](https://dropmail.me/)
 - [fleet](https://www.jetbrains.com/fleet/)
-- [codepen](https://codepen.io/)
 - [robohash](https://robohash.org/)
 - [Toptal utility tools](https://www.toptal.com/utilities-tools)
 - [json crack](https://jsoncrack.com/)
