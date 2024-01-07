@@ -323,7 +323,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [HTML color codes](https://htmlcolorcodes.com/color-names/)
 - [keybr](https://www.keybr.com/)
 - [regexr](https://regexr.com/)
-- [icone scout](https://iconscout.com/)
 - [heroicons](https://heroicons.com/)
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
 - [Miro blackboard](https://miro.com/it/)
