@@ -280,7 +280,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 
 - [Screen Size Map](https://screensizemap.com/)
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
-- [ProgrammableWeb](https://www.programmableweb.com/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Online API Testing](https://hoppscotch.io/)
 - [Background gradient](https://webgradients.com/)
