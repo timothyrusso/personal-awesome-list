@@ -296,7 +296,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Prettier code formatter](https://prettier.io/)
 - [gitignore](https://github.com/github/gitignore)
 - [Micro terminal based editor](https://micro-editor.github.io/)
-- [Pomodoro timer](https://pomofocus.io/)
 - [Material design terminal](https://materialshell.carloscuesta.me/)
 - [Pomodoro timer](https://pomofocus.io/)
 - [Icon and style library](https://iconscout.com/)
