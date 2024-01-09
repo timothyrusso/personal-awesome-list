@@ -39,6 +39,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
   - [Portfolio ideas](#portfolio-ideas)
   - [Preparation for job](#preparation-for-job)
   - [Projects ideas](#projects-ideas)
+  - [Productivity tools](#productivity-tools)
   - [Programming games](#programming-games)
   - [Programming learning materials](#programming-learning-materials)
   - [React learning materials](#react-learning-materials)
