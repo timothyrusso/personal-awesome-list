@@ -38,8 +38,8 @@ We encourage and appreciate community involvement! If you'd like to contribute t
   - [Open Source](#open-source)
   - [Portfolio ideas](#portfolio-ideas)
   - [Preparation for job](#preparation-for-job)
-  - [Projects ideas](#projects-ideas)
   - [Productivity tools](#productivity-tools)
+  - [Projects ideas](#projects-ideas)
   - [Programming games](#programming-games)
   - [Programming learning materials](#programming-learning-materials)
   - [React learning materials](#react-learning-materials)
@@ -223,6 +223,10 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [chingu](https://www.chingu.io/)
 - [developersofchange](https://www.developersofchange.org/)
 
+## Productivity tools
+
+- [General tools](https://tinywow.com/)
+
 ## Projects ideas
 
 - [Notion website](https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7)
@@ -293,7 +297,6 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [AI trading assistant](https://hawksight.co/)
 - [JS Bin javascript console](https://jsbin.com/?js,console)
 - [Frontend build config generator](https://createapp.dev/webpack/no-library)
-- [General tools](https://tinywow.com/)
 - [Prettier code formatter](https://prettier.io/)
 - [gitignore](https://github.com/github/gitignore)
 - [Micro terminal based editor](https://micro-editor.github.io/)
