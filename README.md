@@ -417,6 +417,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [outerbase](https://ob1.outerbase.com/)
 - [basedash](https://www.basedash.com/)
 - [rely](https://www.rely.io/)
+- [commoditypriceapi](https://www.commoditypriceapi.com/)
 
 ## Tutorials
 
