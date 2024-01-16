@@ -420,6 +420,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [commoditypriceapi](https://www.commoditypriceapi.com/)
 - [clickvote](https://clickvote.dev/)
 - [submitjson](https://www.submitjson.com/)
+- [brewed](https://brewed.dev/)
 
 ## Tutorials
 
