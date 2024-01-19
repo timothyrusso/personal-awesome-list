@@ -63,6 +63,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [harpa.ai](https://harpa.ai/)
 - [codium](https://www.codium.ai/)
 - [draxlr](https://www.draxlr.com/)
+- [ora](https://ora.ai/)
 
 ## API learning materials
 
