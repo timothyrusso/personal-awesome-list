@@ -64,7 +64,8 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [codium](https://www.codium.ai/)
 - [draxlr](https://www.draxlr.com/)
 - [ora](https://ora.ai/)
-- [interactwith](https://market.interactwith.ai/
+- [interactwith](https://market.interactwith.ai/)
+- [tutorai](https://www.tutorai.me/)
 
 ## API learning materials
 
