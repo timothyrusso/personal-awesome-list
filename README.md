@@ -428,6 +428,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [brewed](https://brewed.dev/)
 - [lefthook](https://github.com/evilmartians/lefthook)
 - [ifranodus](https://infranodus.com/)
+- [digger](https://digger.tools/)
 
 ## Tutorials
 
