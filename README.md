@@ -429,6 +429,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [lefthook](https://github.com/evilmartians/lefthook)
 - [ifranodus](https://infranodus.com/)
 - [digger](https://digger.tools/)
+- [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Tutorials
 
