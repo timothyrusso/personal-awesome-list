@@ -430,6 +430,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [ifranodus](https://infranodus.com/)
 - [digger](https://digger.tools/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [reactcosmos](https://reactcosmos.org/)
 
 ## Tutorials
 
