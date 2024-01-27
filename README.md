@@ -432,6 +432,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [reactcosmos](https://reactcosmos.org/)
 - [dnote](https://github.com/dnote/dnote#installation)
+- [zed](https://zed.dev/)
 
 ## Tutorials
 
