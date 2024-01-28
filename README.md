@@ -433,6 +433,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [reactcosmos](https://reactcosmos.org/)
 - [dnote](https://github.com/dnote/dnote#installation)
 - [zed](https://zed.dev/)
+- [nvchad](https://nvchad.com/)
 
 ## Tutorials
 
