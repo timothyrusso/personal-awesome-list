@@ -434,6 +434,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [dnote](https://github.com/dnote/dnote#installation)
 - [zed](https://zed.dev/)
 - [nvchad](https://nvchad.com/)
+- [reacttotron](https://github.com/infinitered/reactotron)
 
 ## Tutorials
 
