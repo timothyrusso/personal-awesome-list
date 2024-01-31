@@ -436,6 +436,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [zed](https://zed.dev/)
 - [nvchad](https://nvchad.com/)
 - [reacttotron](https://github.com/infinitered/reactotron)
+- [twenty](https://www.twenty.com/)
 
 ## Tutorials
 
