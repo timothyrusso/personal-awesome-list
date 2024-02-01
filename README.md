@@ -437,6 +437,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [nvchad](https://nvchad.com/)
 - [reacttotron](https://github.com/infinitered/reactotron)
 - [twenty](https://www.twenty.com/)
+- [fakerapi](https://fakerapi.com/)
 
 ## Tutorials
 
