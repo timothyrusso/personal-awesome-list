@@ -69,6 +69,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [arcktic](https://arcktic.com/)
 - [wiki.mutable](https://wiki.mutable.ai/)
 - [promptand](https://promptand.com/)
+- [appweaver](https://appweaver.ai/)
 
 ## API learning materials
 
