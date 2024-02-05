@@ -442,6 +442,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [twenty](https://www.twenty.com/)
 - [fakerapi](https://fakerapi.com/)
 - [cva](https://cva.style/docs)
+- [clone-ui](https://clone-ui.design/)
 
 ## Tutorials
 
