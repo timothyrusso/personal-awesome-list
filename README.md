@@ -443,6 +443,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [fakerapi](https://fakerapi.com/)
 - [cva](https://cva.style/docs)
 - [clone-ui](https://clone-ui.design/)
+- [bump](https://bump.sh/)
 
 ## Tutorials
 
