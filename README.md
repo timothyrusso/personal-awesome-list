@@ -444,6 +444,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [cva](https://cva.style/docs)
 - [clone-ui](https://clone-ui.design/)
 - [bump](https://bump.sh/)
+- [crowdtranslate](https://www.crowdtranslate.io/)
 
 ## Tutorials
 
