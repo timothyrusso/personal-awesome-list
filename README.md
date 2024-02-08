@@ -445,6 +445,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [clone-ui](https://clone-ui.design/)
 - [bump](https://bump.sh/)
 - [crowdtranslate](https://www.crowdtranslate.io/)
+- [altairgraphql](https://altairgraphql.dev/)
 
 ## Tutorials
 
