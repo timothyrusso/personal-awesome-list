@@ -207,6 +207,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [Blazar Group](https://blazargroup.com/it/carriera/)
 - [swissdevjobs](https://swissdevjobs.ch/)
 - [wellfound](https://wellfound.com/jobs)
+- [neboolar](https://www.neboolar.com/)
 
 ## Miscellaneous
 
