@@ -448,6 +448,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [crowdtranslate](https://www.crowdtranslate.io/)
 - [altairgraphql](https://altairgraphql.dev/)
 - [frulow](https://app.frulow.com/)
+- [hexcolor](https://hexcolor.co/)
 
 ## Tutorials
 
