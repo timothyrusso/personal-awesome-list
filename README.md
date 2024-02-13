@@ -450,6 +450,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [frulow](https://app.frulow.com/)
 - [hexcolor](https://hexcolor.co/)
 - [verto](https://www.verto.sh/)
+- [yesicon](https://yesicon.app/)
 
 ## Tutorials
 
