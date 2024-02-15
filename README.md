@@ -452,6 +452,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [verto](https://www.verto.sh/)
 - [yesicon](https://yesicon.app/)
 - [gitbutler](https://gitbutler.com/)
+- [xtaapp](https://xtaapp.com/)
 
 ## Tutorials
 
