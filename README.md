@@ -456,6 +456,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [screengrab](https://screengrab.cloud/en/)
 - [animaapp](https://www.animaapp.com/)
 - [grafbase](https://grafbase.com/)
+- [bugsnag](https://www.bugsnag.com/)
 
 ## Tutorials
 
