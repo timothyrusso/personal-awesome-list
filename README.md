@@ -457,6 +457,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [animaapp](https://www.animaapp.com/)
 - [grafbase](https://grafbase.com/)
 - [bugsnag](https://www.bugsnag.com/)
+- [mdedit](https://www.mdedit.ai/)
 
 ## Tutorials
 
