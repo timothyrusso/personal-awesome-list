@@ -458,6 +458,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [grafbase](https://grafbase.com/)
 - [bugsnag](https://www.bugsnag.com/)
 - [mdedit](https://www.mdedit.ai/)
+- [githistory](https://githistory.xyz/)
 
 ## Tutorials
 
