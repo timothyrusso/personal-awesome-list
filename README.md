@@ -459,6 +459,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [bugsnag](https://www.bugsnag.com/)
 - [mdedit](https://www.mdedit.ai/)
 - [githistory](https://githistory.xyz/)
+- [snippify](https://snippify.ir/)
 
 ## Tutorials
 
