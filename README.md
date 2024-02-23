@@ -460,6 +460,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [mdedit](https://www.mdedit.ai/)
 - [githistory](https://githistory.xyz/)
 - [snippify](https://snippify.ir/)
+- [pieces](https://pieces.app/)
 
 ## Tutorials
 
