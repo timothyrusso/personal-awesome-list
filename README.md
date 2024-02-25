@@ -461,6 +461,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [githistory](https://githistory.xyz/)
 - [snippify](https://snippify.ir/)
 - [pieces](https://pieces.app/)
+- [aceternity](https://ui.aceternity.com/)
 
 ## Tutorials
 
