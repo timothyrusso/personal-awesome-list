@@ -465,6 +465,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [react-aria](https://react-spectrum.adobe.com/react-aria/)
 - [commitmono](https://commitmono.com/)
 - [acreom](https://acreom.com/)
+- [snippet](https://snippet.run/home)
 
 ## Tutorials
 
