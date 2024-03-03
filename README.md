@@ -468,6 +468,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [acreom](https://acreom.com/)
 - [snippet](https://snippet.run/home)
 - [kokua](https://www.kokua.wiki/)
+- [hoji](https://app.hoji.ai/)
 
 ## Tutorials
 
