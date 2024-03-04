@@ -469,6 +469,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [snippet](https://snippet.run/home)
 - [kokua](https://www.kokua.wiki/)
 - [hoji](https://app.hoji.ai/)
+- [codeedit](https://www.codeedit.app/)
 
 ## Tutorials
 
