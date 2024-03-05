@@ -470,6 +470,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [kokua](https://www.kokua.wiki/)
 - [hoji](https://app.hoji.ai/)
 - [codeedit](https://www.codeedit.app/)
+- [fakend](https://fakend.fyi/)
 
 ## Tutorials
 
