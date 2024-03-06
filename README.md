@@ -471,6 +471,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [hoji](https://app.hoji.ai/)
 - [codeedit](https://www.codeedit.app/)
 - [fakend](https://fakend.fyi/)
+- [codemate](https://codemate.bot/)
 
 ## Tutorials
 
