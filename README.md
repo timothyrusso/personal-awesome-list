@@ -472,6 +472,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [codeedit](https://www.codeedit.app/)
 - [fakend](https://fakend.fyi/)
 - [codemate](https://codemate.bot/)
+- [flyde](https://www.flyde.dev/)
 
 ## Tutorials
 
