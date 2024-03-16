@@ -473,6 +473,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [fakend](https://fakend.fyi/)
 - [codemate](https://codemate.bot/)
 - [flyde](https://www.flyde.dev/)
+- [jsoncrack](https://jsoncrack.com/)
 
 ## Tutorials
 
