@@ -474,6 +474,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [codemate](https://codemate.bot/)
 - [flyde](https://www.flyde.dev/)
 - [jsoncrack](https://jsoncrack.com/)
+- [pullnotifier](https://pullnotifier.com/)
 
 ## Tutorials
 
