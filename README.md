@@ -71,6 +71,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [promptand](https://promptand.com/)
 - [appweaver](https://appweaver.ai/)
 - [doks](https://doks.ai/)
+- [flowgpt](https://flowgpt.com/)
 
 ## API learning materials
 
