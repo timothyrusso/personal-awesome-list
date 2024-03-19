@@ -476,6 +476,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [flyde](https://www.flyde.dev/)
 - [jsoncrack](https://jsoncrack.com/)
 - [pullnotifier](https://pullnotifier.com/)
+- [terminaltrove](https://terminaltrove.com/)
 
 ## Tutorials
 
