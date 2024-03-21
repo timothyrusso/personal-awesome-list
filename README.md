@@ -477,6 +477,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [jsoncrack](https://jsoncrack.com/)
 - [pullnotifier](https://pullnotifier.com/)
 - [terminaltrove](https://terminaltrove.com/)
+- [getsavvy](https://getsavvy.so/)
 
 ## Tutorials
 
