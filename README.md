@@ -478,6 +478,8 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [pullnotifier](https://pullnotifier.com/)
 - [terminaltrove](https://terminaltrove.com/)
 - [getsavvy](https://getsavvy.so/)
+- [AutoPrompt](https://github.com/Eladlev/AutoPrompt)
+- [wheretohostmy](https://wheretohostmy.app/)
 
 ## Tutorials
 
