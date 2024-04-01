@@ -481,6 +481,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt)
 - [wheretohostmy](https://wheretohostmy.app/)
 - [digger](https://digger.tools/)
+- [raycast](https://www.raycast.com/)
 
 ## Tutorials
 
