@@ -483,6 +483,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [digger](https://digger.tools/)
 - [raycast](https://www.raycast.com/)
 - [infield](https://www.infield.ai/)
+- [plandex](https://plandex.ai/)
 
 ## Tutorials
 
