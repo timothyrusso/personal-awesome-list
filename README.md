@@ -484,6 +484,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [raycast](https://www.raycast.com/)
 - [infield](https://www.infield.ai/)
 - [plandex](https://plandex.ai/)
+- [meticulous](https://www.meticulous.ai/)
 
 ## Tutorials
 
