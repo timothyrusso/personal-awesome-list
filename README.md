@@ -486,6 +486,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [plandex](https://plandex.ai/)
 - [meticulous](https://www.meticulous.ai/)
 - [hubql](https://www.hubql.com/)
+- [docsify](https://docsify.js.org/)
 
 ## Tutorials
 
