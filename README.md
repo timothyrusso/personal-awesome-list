@@ -488,6 +488,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [hubql](https://www.hubql.com/)
 - [docsify](https://docsify.js.org/)
 - [ohmygit](https://ohmygit.org/)
+- [wolframalpha](https://www.wolframalpha.com/)
 
 ## Tutorials
 
