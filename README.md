@@ -487,6 +487,7 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [meticulous](https://www.meticulous.ai/)
 - [hubql](https://www.hubql.com/)
 - [docsify](https://docsify.js.org/)
+- [ohmygit](https://ohmygit.org/)
 
 ## Tutorials
 
