@@ -295,7 +295,10 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 
 ## Tools and Utilities
 
-- [Screen Size Map](https://screensizemap.com/)
+#### Screen Size Map
+[Screen Size Map](https://screensizemap.com/)
+Compares viewport sizes in device‑independent pixel to plan responsive and fluid layouts for great UX / UI designs in websites or digital products
+
 - [Yandex Map Constructor](https://yandex.com/map-constructor/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Online API Testing](https://hoppscotch.io/)
