@@ -184,6 +184,11 @@ We encourage and appreciate community involvement! If you'd like to contribute t
 - [fullstack.cafe](https://www.fullstack.cafe/)
 - [Front End developer interview questions](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)
 - [Front End developer interview questions GitHub list](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [hackerrank](https://www.hackerrank.com/)
+- [bigfrontend](https://bigfrontend.dev/)
+- [greatfrontend](https://www.greatfrontend.com/)
+- [frontendlead](https://frontendlead.com/)
+- [devskiller](https://devskiller.com/)
 
 ## JavaScript learning materials
 
